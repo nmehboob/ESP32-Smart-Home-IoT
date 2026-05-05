@@ -34,8 +34,3 @@ The ESP32 connects to WiFi and hosts a web server. A web page is served to the u
 
 * src/main.ino → Main program code
 * README.md → Project documentation
-
-
-
-
-Mahboob Nawaz
